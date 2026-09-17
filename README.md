@@ -27,16 +27,9 @@ Everything can be customised to exactly how the business wants it — design, co
 
 Built for independent food businesses: restaurants, cafes, coffee shops, fast food outlets, dessert shops, sweet shops (mithai), ice cream parlours, juice bars, bakeries, food trucks, takeaways and pubs.
 
-## Pricing
+## Pilot program
 
-One-time setup fees, **no monthly charges**:
-
-| Product | Price |
-|---|---|
-| QR Review System | £49 one-time (localized per country) |
-| Digital Menu | £29 one-time |
-| Website | from £199 one-time |
-| Full Digital Package (all three) | £249 one-time |
+Revly is currently running a **pilot program** with a small group of early venues. Pricing will be published once the pilot wraps up. If you run an independent food business and want to take part, [get in touch](mailto:nehangbhatt@reviewwork.uk).
 
 ## Links
 
