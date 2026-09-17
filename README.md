@@ -1,3 +1,5 @@
+<p align="center"><img src="https://base44.app/api/apps/6a850b29c1132dfd54dc6adb/files/mp/public/6a850b29c1132dfd54dc6adb/35e2d89c0_revly_logo_1024.png" alt="Revly logo" width="140"></p>
+
 # Revly
 
 **Real reviews from real customers, via one QR code.**
