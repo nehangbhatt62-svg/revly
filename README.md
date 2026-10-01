@@ -27,15 +27,14 @@ Everything can be customised to exactly how the business wants it — design, co
 
 Built for independent food businesses: restaurants, cafes, coffee shops, fast food outlets, dessert shops, sweet shops (mithai), ice cream parlours, juice bars, bakeries, food trucks, takeaways and pubs.
 
-## Pilot program
+## Free pilot
 
-Revly is currently running a **pilot program** with a small group of early venues. Pricing will be published once the pilot wraps up. If you run an independent food business and want to take part, [get in touch](mailto:nehangbhatt@reviewwork.uk).
+Revly is currently running a **free pilot** — the first 50 cafés to join get the full setup completely free (review link + QR, digital menu, website), with personal onboarding. If you run an independent food business and want to take part, [get in touch](mailto:nehangbhatt@reviewwork.uk).
 
 ## Links
 
 - Website & live QR demo: [reviewwork.uk](https://reviewwork.uk) — try the review flow yourself at [reviewwork.uk/demo](https://reviewwork.uk/demo)
 - Digital menu demo: [menu.reviewwork.uk](https://menu.reviewwork.uk)
-- Pricing: [reviewwork.uk/pricing](https://reviewwork.uk/pricing)
 
 ## Contact
 
